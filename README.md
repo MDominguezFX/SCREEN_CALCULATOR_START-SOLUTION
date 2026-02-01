@@ -4,86 +4,74 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Calculadora LED — START SOLUTION v2.1.3 Pro</title>
   <style>
-    /* ===== Footer START SOLUTION ===== */
-.footer{
-  border-top: 1px solid rgba(255,255,255,.08);
-  margin-top: 24px;
-  padding: 14px 16px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:12px;
-}
-/* ===== Top Brand START SOLUTION ===== */
-.top-brand{
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  margin:14px 0 24px;
-  opacity:.55;  
-}
+   <style>
+  /* ===== Footer START SOLUTION ===== */
+  .footer{
+    border-top: 1px solid rgba(255,255,255,.08);
+    margin-top: 24px;
+    padding: 14px 16px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+  }
 
-.top-brand img{
-  height:64px;          /* ← tamaño del logo */
-  width:auto;
-}
+  /* ===== Top Brand START SOLUTION ===== */
+  .top-brand{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:14px 0 24px;
+    opacity:.55;
+  }
 
-.top-brand:hover{
-  opacity:.85;          /* ← resalta al pasar el mouse */
-}
+  .top-brand img{
+    height:64px;
+    width:auto;
+  }
 
-.top-brand:hover{
-  opacity:1;
-}
+  .top-brand:hover{
+    opacity:.85;
+  }
+
+  .brand{
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+    text-decoration:none;
+    color: var(--ink);
+    opacity:.7;
+    font-size:12px;
+  }
+
+  .brand img{
+    height:28px;
+    width:auto;
+  }
+
+  .brand:hover{
+    opacity:1;
+  }
+
+  .links{
+    display:flex;
+    gap:10px;
+  }
+
+  .links a{
+    font-size:12px;
+    color: var(--muted);
+    text-decoration:none;
+    padding:6px 10px;
+    border:1px solid rgba(255,255,255,.12);
+    border-radius:999px;
+  }
+  .links a:hover{
+    color: var(--ink);
+    border-color: rgba(255,255,255,.3);
+  }
 </style>
 
-
-.top-brand img{
-  height:34px;   /* podés bajar a 26px si lo querés más sutil */
-  width:auto;
-}
-
-.top-brand:hover{
-  opacity:1;
-}
-
-
-.brand{
-  display:inline-flex;
-  align-items:center;
-  gap:10px;
-  text-decoration:none;
-  color: var(--ink);
-  opacity:.7;
-  font-size:12px;
-}
-
-.brand img{
-  height:28px;
-}
-
-.brand:hover{
-  opacity:1;
-}
-
-.links{
-  display:flex;
-  gap:10px;
-}
-
-.links a{
-  font-size:12px;
-  color: var(--muted);
-  text-decoration:none;
-  padding:6px 10px;
-  border:1px solid rgba(255,255,255,.12);
-  border-radius:999px;
-}
-
-.links a:hover{
-  color:var(--ink);
-  border-color:rgba(255,255,255,.3);
-}
 
     :root{
   /* START SOLUTION – technical dark theme (derived from logo palette) */
