@@ -14,6 +14,34 @@
   justify-content:space-between;
   gap:12px;
 }
+/* ===== Top Brand START SOLUTION ===== */
+.top-brand{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:10px 0 16px;
+  opacity:.85;
+  }
+  .top-brand img{
+  height:34px;
+  width:auto;
+}
+
+.top-brand:hover{
+  opacity:1;
+}
+</style>
+
+
+.top-brand img{
+  height:34px;   /* podés bajar a 26px si lo querés más sutil */
+  width:auto;
+}
+
+.top-brand:hover{
+  opacity:1;
+}
+
 
 .brand{
   display:inline-flex;
@@ -155,9 +183,18 @@ select:focus,input:focus{
   </style>
 </head>
 <body>
+<!-- LOGO SUPERIOR -->
+  <header class="top-brand">
+    <a href="https://startsolution.com.ar" target="_blank" rel="noopener">
+      <img src="assets/logo-startsolution.png" alt="START SOLUTION">
+    </a>
+  </header>
+
   <div class="wrap">
     <h1>Calculadora de Pantallas LED — v2.1.3 Pro</h1>
-    <p class="muted">Calculadora • Tamaño de pantalla • Plano legible • Tensión fija (220V mono / 380V tri).</p>
+    <p class="muted">
+      Calculadora • Tamaño de pantalla • Plano legible • Tensión fija
+    </p>
 
     <div class="card">
       <h3 style="margin:0 0 6px;">Entrada</h3>
