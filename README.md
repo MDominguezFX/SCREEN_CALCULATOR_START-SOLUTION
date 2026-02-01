@@ -1,78 +1,10 @@
+[LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15.html](https://github.com/user-attachments/files/24993928/LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15.html)
 <html lang="es">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Calculadora LED — START SOLUTION v2.1.3 Pro</title>
   <style>
-   <style>
-  /* ===== Footer START SOLUTION ===== */
-  .footer{
-    border-top: 1px solid rgba(255,255,255,.08);
-    margin-top: 24px;
-    padding: 14px 16px;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:12px;
-  }
-
-  /* ===== Top Brand START SOLUTION ===== */
-  .top-brand{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    margin:14px 0 24px;
-    opacity:.55;
-  }
-
-  .top-brand img{
-    height:64px;
-    width:auto;
-  }
-
-  .top-brand:hover{
-    opacity:.85;
-  }
-
-  .brand{
-    display:inline-flex;
-    align-items:center;
-    gap:10px;
-    text-decoration:none;
-    color: var(--ink);
-    opacity:.7;
-    font-size:12px;
-  }
-
-  .brand img{
-    height:28px;
-    width:auto;
-  }
-
-  .brand:hover{
-    opacity:1;
-  }
-
-  .links{
-    display:flex;
-    gap:10px;
-  }
-
-  .links a{
-    font-size:12px;
-    color: var(--muted);
-    text-decoration:none;
-    padding:6px 10px;
-    border:1px solid rgba(255,255,255,.12);
-    border-radius:999px;
-  }
-  .links a:hover{
-    color: var(--ink);
-    border-color: rgba(255,255,255,.3);
-  }
-</style>
-
-
     :root{
   /* START SOLUTION – technical dark theme (derived from logo palette) */
   --bg:#050A12;
@@ -176,18 +108,9 @@ select:focus,input:focus{
   </style>
 </head>
 <body>
-<!-- LOGO SUPERIOR -->
-  <header class="top-brand">
-    <a href="https://startsolution.com.ar" target="_blank" rel="noopener">
-      <img src="assets/logo-startsolution.png" alt="START SOLUTION">
-    </a>
-  </header>
-
   <div class="wrap">
     <h1>Calculadora de Pantallas LED — v2.1.3 Pro</h1>
-    <p class="muted">
-      Calculadora • Tamaño de pantalla • Plano legible • Tensión fija
-    </p>
+    <p class="muted">Calculadora • Tamaño de pantalla • Plano legible • Tensión fija (220V mono / 380V tri).</p>
 
     <div class="card">
       <h3 style="margin:0 0 6px;">Entrada</h3>
@@ -721,17 +644,5 @@ Térmica tri: ${last.breaker.tri_label}`;
   // If logo loads later, redraw
   brandLogo.onload = () => { if(last) drawDiagram(); };
 </script>
-<footer class="footer">
-  <a class="brand" href="https://startsolution.com.ar" target="_blank" rel="noopener">
-    <img src="assets/logo-startsolution.png" alt="START SOLUTION">
-    <span>START SOLUTION</span>
-  </a>
-
-  <nav class="links">
-    <a href="https://startsolution.com.ar" target="_blank" rel="noopener">Web</a>
-    <a href="https://www.instagram.com/startsolution.ar" target="_blank" rel="noopener">Instagram</a>
-  </nav>
-</footer>
-
 </body>
 </html>
