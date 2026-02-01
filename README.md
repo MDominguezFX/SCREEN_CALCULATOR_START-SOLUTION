@@ -19,12 +19,17 @@
   display:flex;
   justify-content:center;
   align-items:center;
-  margin:10px 0 16px;
-  opacity:.85;
-  }
-  .top-brand img{
-  height:34px;
+  margin:14px 0 24px;
+  opacity:.55;  
+}
+
+.top-brand img{
+  height:64px;          /* ← tamaño del logo */
   width:auto;
+}
+
+.top-brand:hover{
+  opacity:.85;          /* ← resalta al pasar el mouse */
 }
 
 .top-brand:hover{
