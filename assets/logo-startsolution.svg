@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1094.382 922.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8b8b8d;
+      }
+
+      .cls-2 {
+        letter-spacing: -.027em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #abadad;
+        font-family: NunitoSans-SemiBold, 'Nunito Sans';
+        font-weight: 600;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #666;
+        font-family: NunitoSans-ExtraBold, 'Nunito Sans';
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #e5e7e7;
+        font-family: NunitoSans-Regular, 'Nunito Sans';
+        font-size: 63.781px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-11 {
+        font-size: 127.759px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.015em;
+      }
+
+      .cls-12 {
+        fill: url(#Nueva_muestra_de_degradado_4);
+      }
+
+      .cls-9, .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_332);
+      }
+
+      .cls-15 {
+        fill: url(#Degradado_sin_nombre_173);
+      }
+
+      .cls-16 {
+        fill: url(#Degradado_sin_nombre_427);
+      }
+
+      .cls-17 {
+        letter-spacing: -.006em;
+      }
+
+      .cls-18 {
+        fill: url(#Degradado_sin_nombre_332-2);
+      }
+
+      .cls-19 {
+        letter-spacing: -.009em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-22 {
+        font-family: NunitoSans-Black, 'Nunito Sans';
+        font-weight: 800;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        fill: #c3c4c5;
+      }
+
+      .cls-25 {
+        letter-spacing: .011em;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_332" data-name="Degradado sin nombre 332" x1="547.51" y1="358.116" x2="697.844" y2="207.782" gradientUnits="userSpaceOnUse">
+      <stop offset=".357" stop-color="#0060bc"/>
+      <stop offset=".452" stop-color="#0773ca"/>
+      <stop offset=".672" stop-color="#179ae9"/>
+      <stop offset=".787" stop-color="#1ea9f5"/>
+      <stop offset=".894" stop-color="#1da7f3"/>
+      <stop offset=".933" stop-color="#19a0ec"/>
+      <stop offset=".96" stop-color="#1394e0"/>
+      <stop offset=".983" stop-color="#0a84cf"/>
+      <stop offset="1" stop-color="#0071bc"/>
+    </linearGradient>
+    <linearGradient id="Nueva_muestra_de_degradado_4" data-name="Nueva muestra de degradado 4" x1="562.232" y1="282.633" x2="753.977" y2="282.633" gradientUnits="userSpaceOnUse">
+      <stop offset=".357" stop-color="#0060bc"/>
+      <stop offset=".452" stop-color="#0773ca"/>
+      <stop offset=".672" stop-color="#179ae9"/>
+      <stop offset=".787" stop-color="#1ea9f5"/>
+      <stop offset=".894" stop-color="#1da7f3"/>
+      <stop offset=".933" stop-color="#19a0ec"/>
+      <stop offset=".96" stop-color="#1394e0"/>
+      <stop offset=".983" stop-color="#0a84cf"/>
+      <stop offset="1" stop-color="#0071bc"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_332-2" data-name="Degradado sin nombre 332" x1="562.232" y1="495.173" x2="683.753" y2="495.173" xlink:href="#Degradado_sin_nombre_332"/>
+    <linearGradient id="Degradado_sin_nombre_427" data-name="Degradado sin nombre 427" x1="603.696" y1="514.469" x2="642.289" y2="475.876" gradientUnits="userSpaceOnUse">
+      <stop offset=".357" stop-color="#003dbc"/>
+      <stop offset=".548" stop-color="#0040bc"/>
+      <stop offset=".716" stop-color="#004bbc"/>
+      <stop offset=".875" stop-color="#005dbc"/>
+      <stop offset="1" stop-color="#0071bc"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_173" data-name="Degradado sin nombre 173" x1="325.677" y1="485.066" x2="629.874" y2="180.869" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".006" stop-color="#fcfcfc"/>
+      <stop offset=".123" stop-color="#c7c7c7"/>
+      <stop offset=".225" stop-color="#a0a0a0"/>
+      <stop offset=".306" stop-color="#888"/>
+      <stop offset=".357" stop-color="gray"/>
+      <stop offset=".482" stop-color="#afafaf"/>
+      <stop offset=".601" stop-color="#d7d7d7"/>
+      <stop offset=".663" stop-color="#e6e6e6"/>
+      <stop offset=".704" stop-color="#d1d1d1"/>
+      <stop offset=".789" stop-color="#aeaeae"/>
+      <stop offset=".87" stop-color="#949494"/>
+      <stop offset=".942" stop-color="#858585"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-24" d="M550.242,0C364.774,0,214.423,150.351,214.423,335.819s150.351,335.819,335.819,335.819,335.819-150.351,335.819-335.819S735.709,0,550.242,0ZM550.242,645.906c-171.256,0-310.087-138.831-310.087-310.087S378.985,25.732,550.242,25.732s310.087,138.831,310.087,310.087-138.831,310.087-310.087,310.087Z"/>
+    <g>
+      <g>
+        <g>
+          <polygon class="cls-14" points="753.977 263.915 683.753 263.915 683.753 493.096 562.232 372.839 562.232 263.915 562.232 250.063 562.232 72.17 753.977 263.915"/>
+          <path class="cls-12" d="M572.232,96.312l157.603,157.603h-56.082v215.216l-101.521-100.465V96.312M562.232,72.17v300.669l121.521,120.258v-229.181h70.224l-191.745-191.745h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-18" points="562.232 397.082 562.232 407.082 562.232 433.148 562.232 473.006 683.753 593.263 683.753 556.263 683.753 530.197 683.753 517.339 562.232 397.082"/>
+          <path class="cls-16" d="M572.232,421.047l101.521,100.465v47.786l-101.521-100.465v-47.786M562.232,397.082v75.924l121.521,120.258v-75.924l-121.521-120.258h0Z"/>
+        </g>
+      </g>
+      <g>
+        <polygon class="cls-15" points="421.725 258.915 358.572 258.915 533.246 84.241 533.246 470.753 421.725 581.114 421.725 258.915"/>
+        <path class="cls-1" d="M528.246,96.312v372.354l-101.521,100.466V253.915h-56.082l157.603-157.603M538.246,72.17l-191.745,191.745h70.224v329.181l121.521-120.258V72.17h0Z"/>
+      </g>
+    </g>
+  </g>
+  <text class="cls-10" transform="translate(6.101 906.45)"><tspan x="0" y="0">Inn</tspan><tspan class="cls-17" x="88.782" y="0">o</tspan><tspan class="cls-19" x="123.797" y="0">v</tspan><tspan x="156.007" y="0">ation / </tspan><tspan class="cls-21" x="348.878" y="0">Pr</tspan><tspan x="411.255" y="0">og</tspan><tspan class="cls-21" x="484.029" y="0">r</tspan><tspan x="505.906" y="0">ession/ </tspan><tspan class="cls-21" x="721.673" y="0">F</tspan><tspan class="cls-13" x="756.561" y="0">utu</tspan><tspan class="cls-20" x="849.807" y="0">r</tspan><tspan class="cls-25" x="871.685" y="0">e</tspan><tspan class="cls-13" x="905.997" y="0">-</tspan><tspan class="cls-21" x="933.104" y="0">Pr</tspan><tspan x="995.481" y="0">o</tspan><tspan class="cls-23" x="1030.879" y="0">o</tspan><tspan x="1066.213" y="0">f</tspan></text>
+  <text class="cls-11" transform="translate(0 810.154)"><tspan class="cls-8" x="0" y="0">S</tspan><tspan class="cls-6" x="81.253" y="0">T</tspan><tspan class="cls-9" x="149.22" y="0">A</tspan><tspan class="cls-7" x="245.167" y="0">R</tspan><tspan class="cls-5" x="332.17" y="0">T</tspan><tspan class="cls-22" x="411.635" y="0"> </tspan><tspan class="cls-3" x="448.174" y="0">SO</tspan><tspan class="cls-2" x="626.78" y="0">L</tspan><tspan class="cls-4" x="693.215" y="0">UTION</tspan></text>
+</svg>
