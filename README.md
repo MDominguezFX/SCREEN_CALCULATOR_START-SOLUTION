@@ -1,4 +1,5 @@
-[LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15.html](https://github.com/user-attachments/files/24993928/LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15.html)
+[LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15_FIXED.html](https://github.com/user-attachments/files/25012218/LED_Calculator_v2_1_3_PRO_START_SOLUTION_TIDY2_P15_FIXED.html)
+
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -105,10 +106,48 @@ select:focus,input:focus{
       .row{grid-template-columns:1fr}
       button, select, input{font-size:16px}
     }
+  /* ===== Top Brand START SOLUTION ===== */
+.top-brand{
+  grid-column:1/-1;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:8px 0 12px;
+  opacity:.55;                 /* transparencia */
+}
+.top-brand img{
+  height:72px;                 /* tamaño del logo */
+  width:auto;
+  display:block;
+}
+.top-brand:hover{ opacity:.85; }
+
+/* Footer links */
+.foot a{
+  color: var(--muted);
+  text-decoration:none;
+  border:1px solid rgba(255,255,255,.12);
+  padding:4px 8px;
+  border-radius:999px;
+  margin: 0 4px;
+  display:inline-block;
+}
+.foot a:hover{
+  color: var(--ink);
+  border-color: rgba(255,255,255,.3);
+}
   </style>
 </head>
 <body>
   <div class="wrap">
+    
+    <!-- LOGO SUPERIOR -->
+    <header class="top-brand">
+      <a href="https://startsolution.com.ar" target="_blank" rel="noopener">
+        <img src="assets/logo-startsolution.png" alt="START SOLUTION">
+      </a>
+    </header>
+
     <h1>Calculadora de Pantallas LED — v2.1.3 Pro</h1>
     <p class="muted">Calculadora • Tamaño de pantalla • Plano legible • Tensión fija (220V mono / 380V tri).</p>
 
@@ -182,7 +221,7 @@ select:focus,input:focus{
       <div class="result-grid" id="grid"></div>
     </div>
 
-    <div class="foot">Funciona offline. © START SOLUTION</div>
+    <div class="foot">Funciona offline. © START SOLUTION <a href="https://startsolution.com.ar" target="_blank" rel="noopener">Web</a><a href="https://www.instagram.com/startsolution.ar" target="_blank" rel="noopener">Instagram</a></div>
   </div>
 
 <script>
