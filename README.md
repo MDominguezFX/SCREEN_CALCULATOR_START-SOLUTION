@@ -118,11 +118,9 @@ select:focus,input:focus{
 .top-brand img{
   height:82px;       /* tamaño del logo */
   width:auto;
+  display:block;
 }
 
-.top-brand img:hover{
-  opacity:.85;
-}
 
 /* Footer links */
 .foot a{
