@@ -116,7 +116,7 @@ select:focus,input:focus{
 }
 
 .top-brand img{
-  height:72px;
+  height:102px;
   width:auto;
   display:block;
   background:transparent;
