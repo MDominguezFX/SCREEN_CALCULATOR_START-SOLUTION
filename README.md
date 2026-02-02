@@ -113,14 +113,17 @@ select:focus,input:focus{
   justify-content:center;
   align-items:center;
   margin:8px 0 12px;
-  opacity:.55;                 /* transparencia */
 }
+
 .top-brand img{
-  height:72px;                 /* tamaño del logo */
+  height:82px;       /* tamaño del logo */
   width:auto;
-  display:block;
+  opacity:.55;       /* transparencia REAL */
 }
-.top-brand:hover{ opacity:.85; }
+
+.top-brand img:hover{
+  opacity:.85;
+}
 
 /* Footer links */
 .foot a{
@@ -132,6 +135,7 @@ select:focus,input:focus{
   margin: 0 4px;
   display:inline-block;
 }
+
 .foot a:hover{
   color: var(--ink);
   border-color: rgba(255,255,255,.3);
