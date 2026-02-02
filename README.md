@@ -118,7 +118,6 @@ select:focus,input:focus{
 .top-brand img{
   height:82px;       /* tamaño del logo */
   width:auto;
-  opacity:.55;       /* transparencia REAL */
 }
 
 .top-brand img:hover{
