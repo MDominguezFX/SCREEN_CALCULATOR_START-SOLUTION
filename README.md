@@ -145,7 +145,7 @@ select:focus,input:focus{
     <!-- LOGO SUPERIOR -->
     <header class="top-brand">
       <a href="https://startsolution.com.ar" target="_blank" rel="noopener">
-        <img src="assets/logo-startsolution.svg" alt="START SOLUTION">
+        <img src="assets/logo-startsolution-clean.svg" alt="START SOLUTION">
       </a>
     </header>
 
