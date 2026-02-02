@@ -116,11 +116,14 @@ select:focus,input:focus{
 }
 
 .top-brand img{
-  height:102px;       /* tamaño del logo */
+  height:72px;
   width:auto;
   display:block;
+  background:transparent;
+  border:0;
+  box-shadow:none;
+  filter:none;
 }
-
 
 /* Footer links */
 .foot a{
