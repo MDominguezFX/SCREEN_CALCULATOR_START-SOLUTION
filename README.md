@@ -116,7 +116,7 @@ select:focus,input:focus{
 }
 
 .top-brand img{
-  height:82px;       /* tamaño del logo */
+  height:102px;       /* tamaño del logo */
   width:auto;
   display:block;
 }
